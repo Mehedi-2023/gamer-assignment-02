@@ -23,6 +23,46 @@
     }
 
     /* nav responsive end here*/
+    .banner-conteiner{
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 0 50px;
+    }
+
+    .banner-img-content {
+        width: 100%;
+        order: 0;
+    }
+
+    .banner-content{
+        width: 100%;
+        text-align: center;
+        order: 1;
+    }
+    .banner-content h3{
+        font-size: 30px;
+        font-weight: 700;
+        
+    }
+    .banner-content h1{
+        font-size: 50px;
+        font-weight: 800;
+        text-align: center;
+    
+    }
+    .banner-content p{
+        font-size: 14px;
+        font-weight: 300;
+        margin-bottom: 20px;
+    
+    
+    }
+    .btn-primary{
+        margin-top: 15px;
+    }
+
+
+    /*banner responsive end here*/
 
 
     
