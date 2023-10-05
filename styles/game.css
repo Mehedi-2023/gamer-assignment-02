@@ -388,3 +388,101 @@ span{
 
 }
 
+
+/*footer styles strat here*/
+footer{
+    background-color: black;
+
+}
+.footer-conteiner{
+    max-width: 1440px;
+    min-height: 500px;
+    margin: 0 auto;
+    align-content: center;
+
+}
+.footer-logo-content{
+    display: flex;
+    justify-content: ;
+    align-content: center;
+    text-align: center;
+    gap: 20px;
+    max-width: 200px;
+    margin: 0 auto ;
+   
+    
+}
+.footer-logo-content img{
+    margin-top: 60px;
+    width: 60px;
+    height: 30px;
+
+    
+}
+.footer-logo-content h1{
+    margin-top: 60px;
+    color: white;
+    
+}
+.footer-content { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 50px auto 0 ;
+    gap: 10px;
+
+
+}
+.footer-content p{
+    margin: 0 auto;
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+
+
+}
+.logos-conteiner{
+    display: flex;
+    align-items: center;
+    max-width: 400px;
+    margin: 30px auto ;
+    gap: 30px;
+
+
+}
+
+.logos-conteiner span{
+    color: white;
+    font-size: 30px;
+   
+    
+}
+.fa-brands{
+    align-content: center;
+   
+}
+
+.footer-privacy{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 700px;
+    margin: 0 auto 20px;
+    gap: 10px;
+    color: #FFF;
+
+}
+
+.small-text-center{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* footer styles end here*/
+
+

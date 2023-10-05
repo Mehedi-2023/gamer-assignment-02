@@ -191,6 +191,58 @@
   
     }
 
+    /*main section responsive end here*/
+    
+    .footer-content { 
+        text-align: center;
+        max-width: 500px;
+        margin: 50px auto ;
+        gap: 10px;
+    
+    
+    }
+    
+.footer-content p{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+
+
+}
+.logos-conteiner{
+    text-align: center;
+    max-width: 200px;
+    margin: 30px auto ;
+    gap: 30px;
+
+
+}
+
+.logos-conteiner span{
+    font-size: 30px;
+   
+    
+}
+.fa-brands{
+    align-content: center;
+   
+}
+
+.footer-privacy{
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+.small-text-center{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
 
     
 }
