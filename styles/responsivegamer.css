@@ -64,6 +64,63 @@
 
     /*banner responsive end here*/
 
+    .gamer-conteiner{
+        flex-direction: column;
+        padding: 0 50px;
+    }
+    .gamer-content{
+        width: 100%;
+        text-align: center;      
+    }
+
+    .gamer-img-content{
+        width: 100%;       
+    }
+
+    .gamer-content p{
+        font-size: 14px;
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .gamer-content h1{
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    /* gamer responsive end here*/
+
+    .flex-img-conteiner{
+        flex-direction: column;
+        padding: 0 50px;
+    }
+    .fanny-videos-title{
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 30px; /* 166.667% */
+    }
+    .fanny-videos-parg{
+        font-size: 14px;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .img-card{
+        width: 100%;
+    }
+    .img-card p{
+        text-align: center;
+        font-size: 14px;
+        font-weight: 300;
+        margin-top: 10px;
+    }
+    
+
+    /*flex box responsive end here*/
+
 
     
 }
