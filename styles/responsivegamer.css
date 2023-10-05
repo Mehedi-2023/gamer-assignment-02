@@ -120,6 +120,76 @@
     
 
     /*flex box responsive end here*/
+    .play-game-conteiner{
+        flex-direction: column;
+    }
+    .play-game-img-content{
+        width: 100%;
+       
+    }
+    .play-game-content{
+        width: 100%;
+        text-align: center;
+    }
+    .play-game-content h1{
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+         line-height: 35px;
+         margin-bottom: 25px;
+
+         
+    }
+    .play-game-content p{
+        text-align: center;
+        font-size: 14px;
+        font-weight: 300;
+        margin: 0 auto 20px;
+        line-height: 20px; /* 166.667% */
+        margin-bottom: 30px;
+    }
+    .img-game-content{
+        width: 100%;
+         height: 100%;
+         padding-left: 140px;
+         padding-right: 50px;
+         
+       
+      }
+      /*gamer zone responsive end here*/
+      .career-conteiner{
+        flex-direction: column;
+        margin: 100px  60px;
+      }
+
+      .career-content{
+        width: 100%;
+        margin-bottom: 80px;
+    
+    }
+    .career-content p{
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px; /* 166.667% */
+    
+    }
+
+    .career-img-content{
+        width: 100%;
+    
+    }
+       /*career section responsive end here*/
+
+     .grid-conteiner{
+
+        
+    }
+
+
+    .game-card{
+     flex-basis: 60px
+  
+    }
 
 
     
