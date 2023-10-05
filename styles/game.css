@@ -11,3 +11,70 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
+nav{
+  
+    padding: 20px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+
+}
+.nav-conteiner{
+    max-width: 1440px;
+    margin: 0 auto 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+
+}
+.nav-logo-content{
+    width: 50%;
+    display: flex;
+    align-items: center;
+   
+  
+
+
+}
+.nav-logo-content img{
+    width: 80px;
+    height: 40px;
+   
+
+}
+.nav-logo-content h1{
+    font-size: 45px;
+    font-weight: 700;
+    color: #0B0223;
+
+}
+
+.nav-content{
+    width: 50%;
+
+}
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+
+
+}
+.nav-content  a{
+    text-decoration: none;
+    color: #3C354F;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 20px;
+
+}
+.btn-nav{
+    margin-top: 15px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+}
+
+/*nav bar style end here*/
